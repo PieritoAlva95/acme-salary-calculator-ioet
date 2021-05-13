@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles/style.css" />
+    <title>ACME | Get Salary</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <main>
+        <h1>acme-get-salary:$<span class="cursor">|</span></h1>
+        <p>* Please enter a .txt file</p>
+        <input id="file-upload" type="file" accept=".txt" />
+        <br />
+        <br />
+        <textarea readonly cols="51" rows="6">
+The amount to pay RENE is: 215 USD </textarea
+        >
+        <br />
+      </main>
+      <div class="container">
+        <h2>Instructions:</h2>
+        <ol>
+          <li>Create a .txt file.</li>
+          <li>
+            Add elements with the format
+            <b>Employee=DayHH:MM-HH:MM,DayHH:MM-HH:MM,DayHH:MM-HH:MM</b>.
+          </li>
+          <li>
+            Click in "Choose file", pick the .txt file you create and wait for
+            the results.
+          </li>
+        </ol>
+      </div>
+      <div class="container">
+        <h2>Information:</h2>
+        <ul>
+          <li>
+            Range of hours must be between these time periods:
+            <b>00:01-09:00</b>, <b>09:01-18:00</b>, <b>18:01-00:00</b>.
+          </li>
+          <li>
+            You can add the same day in other salary range
+            <b>RENE=MO10:00-12:00,MO15:00-17:00</b>.
+          </li>
+          <li>
+            Day must be <b>MO,TU,WE,TH,FR,SA or SU</b> representing
+            Monday,Tuesday,Wednesday,Thursday,Friday,Saturdary and Sunday
+            respectively.
+          </li>
+          <li>
+            The order doesn't matter however is recommended to write the days of
+            work starting from Monday and ending in Sunday.
+          </li>
+          <li>
+            Hours must be between 0 and 23, Minutes must be between 0 and 59.
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <script type="module" src="./scripts/app.js"></script>
+  </body>
+</html>
