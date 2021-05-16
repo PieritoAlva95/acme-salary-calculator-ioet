@@ -68,7 +68,7 @@ The amount to pay ASTRID is: 85 USD
 4. Within Visual Studio Code download the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
 
 5. Open the project and click to Go Live from the status bar to turn the server on/off. Like in the image below.
-   <img src="https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-statusbar-3.jpg" alt="Live server example" height="600">
+   <img src="https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-statusbar-3.jpg" alt="Live server example">
 
 6. Open the folder and double clic `index.html`, Select any browser you want.
 
