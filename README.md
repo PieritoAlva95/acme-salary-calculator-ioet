@@ -59,7 +59,7 @@ The amount to pay ASTRID is: 85 USD
 
 ## How to run locally?<a name="local"></a>
 
-1. Download <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+1. Download [Visual Studio Code](https://code.visualstudio.com/download)</a>
 
 2. Download [Git](https://git-scm.com/download).
 
