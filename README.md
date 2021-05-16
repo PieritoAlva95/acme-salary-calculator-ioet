@@ -56,3 +56,17 @@ ASTRID=MO10:00-12:00,TH12:00-14:00,SU20:00-21:00
 OUTPUT:
 The amount to pay ASTRID is: 85 USD
 ```
+
+## How to run locally?<a name="local"></a>
+
+1. Download [Visual Studio Code](<a href="https://code.visualstudio.com/download">https://code.visualstudio.com/download</a>)
+
+2. Download [Git](https://git-scm.com/download).
+
+3. Download the repository `git clone https://github.com/ceortiz33/ACME-Salary-Calculator-Javascript.git`
+
+4. Open the folder and double clic `index.html`, Select any browser you want.
+
+5. You can create your custom `input.txt` file if you want, following the rules that are shown in `index.html`. A predefined `input.txt` file is attached in the repository, so you can use it for testing.
+
+6. Upload the `input.txt` and watch the results
