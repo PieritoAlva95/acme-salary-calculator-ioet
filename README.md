@@ -61,12 +61,14 @@ The amount to pay ASTRID is: 85 USD
 
 1. Download [Visual Studio Code](https://code.visualstudio.com/download)</a>
 
-2. Download [Git](https://git-scm.com/download).
+2. Within Visual Studio Code download the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
 
-3. Download the repository `git clone https://github.com/ceortiz33/ACME-Salary-Calculator-Javascript.git`
+3. Download [Git](https://git-scm.com/download).
 
-4. Open the folder and double clic `index.html`, Select any browser you want.
+4. Download the repository `git clone https://github.com/ceortiz33/ACME-Salary-Calculator-Javascript.git`
 
-5. You can create your custom `input.txt` file if you want, following the rules that are shown in `index.html`. A predefined `input.txt` file is attached in the repository, so you can use it for testing.
+5. Open the folder and double clic `index.html`, Select any browser you want.
 
-6. Upload the `input.txt` and watch the results
+6. You can create your custom `input.txt` file if you want, following the rules that are shown in `index.html`. A predefined `input.txt` file is attached in the repository, so you can use it for testing.
+
+7. Upload the `input.txt` and watch the results
