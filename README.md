@@ -72,4 +72,4 @@ The amount to pay ASTRID is: 85 USD
 
 6. You can create your custom `input-data.txt` file if you want, following the rules that are shown in the main page of the project. Or you can use the .txt file that is attached in the repository with the name `input-data.txt`.
 
-7. Upload the `input-data.txt` and watch the results
+7. Upload the `input-data.txt` file you created and observe the results in the text area of the main page.
