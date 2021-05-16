@@ -63,7 +63,7 @@ The amount to pay ASTRID is: 85 USD
 
 2. Download [Git](https://git-scm.com/download).
 
-3. Download the [repository](https://github.com/PieritoAlva95/acme-salary-calculator-ioet) `git clone https://github.com/PieritoAlva95/acme-salary-calculator-ioet`
+3. Download the [repository](https://github.com/PieritoAlva95/acme-salary-calculator-ioet) or use the command in your terminal. `git clone https://github.com/PieritoAlva95/acme-salary-calculator-ioet`
 
 4. Within Visual Studio Code download the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
 
