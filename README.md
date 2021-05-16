@@ -59,7 +59,7 @@ The amount to pay ASTRID is: 85 USD
 
 ## How to run locally?<a name="local"></a>
 
-1. Download [Visual Studio Code](https://code.visualstudio.com/download)
+1. Download [Visual Studio Code](https://code.visualstudio.com/download).
 
 2. Download [Git](https://git-scm.com/download).
 
@@ -70,6 +70,6 @@ The amount to pay ASTRID is: 85 USD
 5. Open the project and click to Go Live from the status bar to turn the server on/off. Like in the image below.
    <img src="https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-statusbar-3.jpg" alt="Live server example">
 
-6. You can create your custom `input.txt` file if you want, following the rules that are shown in `index.html`. A predefined `input.txt` file is attached in the repository, so you can use it for testing.
+6. You can create your custom `input-data.txt` file if you want, following the rules that are shown in the main page of the project. Or you can use the .txt file that is attached in the repository with the name `input-data.txt`.
 
 7. Upload the `input.txt` and watch the results
