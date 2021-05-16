@@ -70,8 +70,6 @@ The amount to pay ASTRID is: 85 USD
 5. Open the project and click to Go Live from the status bar to turn the server on/off. Like in the image below.
    <img src="https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-statusbar-3.jpg" alt="Live server example">
 
-6. Open the folder and double clic `index.html`, Select any browser you want.
+6. You can create your custom `input.txt` file if you want, following the rules that are shown in `index.html`. A predefined `input.txt` file is attached in the repository, so you can use it for testing.
 
-7. You can create your custom `input.txt` file if you want, following the rules that are shown in `index.html`. A predefined `input.txt` file is attached in the repository, so you can use it for testing.
-
-8. Upload the `input.txt` and watch the results
+7. Upload the `input.txt` and watch the results
