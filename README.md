@@ -74,4 +74,4 @@ The amount to pay ASTRID is: 85 USD
 
 7. Upload the `input-data.txt` file you created and observe the results in the text area of the main page.
 
-Or you can go to the `(https://pieritoalva95.github.io/acme-salary-calculator-ioet/)` page and upload the .txt file created in step 6.
+Or you can go to the [page](https://pieritoalva95.github.io/acme-salary-calculator-ioet/) or copy the link `https://pieritoalva95.github.io/acme-salary-calculator-ioet/` and upload the .txt file created in step 6.
