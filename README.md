@@ -59,16 +59,19 @@ The amount to pay ASTRID is: 85 USD
 
 ## How to run locally?<a name="local"></a>
 
-1. Download [Visual Studio Code](https://code.visualstudio.com/download)</a>
+1. Download [Visual Studio Code](https://code.visualstudio.com/download)
 
-2. Within Visual Studio Code download the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
+2. Download [Git](https://git-scm.com/download).
 
-3. Download [Git](https://git-scm.com/download).
+3. Download the repository `git clone https://github.com/ceortiz33/ACME-Salary-Calculator-Javascript.git`
 
-4. Download the repository `git clone https://github.com/ceortiz33/ACME-Salary-Calculator-Javascript.git`
+4. Within Visual Studio Code download the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
 
-5. Open the folder and double clic `index.html`, Select any browser you want.
+5. Open the project and click to Go Live from the status bar to turn the server on/off. Like in the image below.
+   <img src="https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-statusbar-3.jpg" alt="Live server example" width="500" height="600">
 
-6. You can create your custom `input.txt` file if you want, following the rules that are shown in `index.html`. A predefined `input.txt` file is attached in the repository, so you can use it for testing.
+6. Open the folder and double clic `index.html`, Select any browser you want.
 
-7. Upload the `input.txt` and watch the results
+7. You can create your custom `input.txt` file if you want, following the rules that are shown in `index.html`. A predefined `input.txt` file is attached in the repository, so you can use it for testing.
+
+8. Upload the `input.txt` and watch the results
