@@ -109,7 +109,7 @@ The main code structure is:
 - Get the total amount to pay to the employee.
 - Show results in the text area of the main page.
 
-The methodology used in the project is detailed below:
+### The methodology used in the project is detailed below:
 
 I started with the set up of the environment, creating the basic project files, creating the repository, creating the README and configuring the GitHub actions.
 
