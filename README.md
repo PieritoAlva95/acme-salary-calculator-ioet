@@ -92,7 +92,7 @@ The exercise is solved using OOP to create objects that execute functions of the
 
 ## Approach & Methodology <a name="approach"></a>
 
-I used Javascript because of the many methods that have to manage strings and arrays, specially the `split` and `toString()` that helps to change between array and string or viceversa depending on the case.`FileReader()` API reads the content of the text file. This API has the property `onload` that save the content of the file, so I used a variable to manipulate that text for later tasks.
+I used Javascript because of the many methods that have to manage strings and arrays, specially the `split` and `toString()` that helps to change between array and string or viceversa depending on the case.`FileReader()` API reads the content of the text file. This API has the property `onload` that save the content of the file, so I used a variable to manipulate that text for later tasks. _And because it's my favorite language and it's the one I'm using a lot right now._
 
 The methodology used in the project is detailed below:
 
