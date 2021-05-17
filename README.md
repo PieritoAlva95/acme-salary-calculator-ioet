@@ -6,6 +6,7 @@
 2. [How to run locally?](#local)
 3. [Architecture](#architecture)
 4. [Approach & Methodology](#approach)
+5. [Testing (JEST)](#testing)
 
 ## Exercise<a name="exercise"></a>
 
@@ -107,3 +108,19 @@ After having the desired user interface, After having the desired user interface
 Then I proceeded to create the files and the functionality to be able to separate the data and information of each line that we find in the .txt file. This functionality can be found in the files of the `utils` folder.
 
 After having the data, the separation of strings and the necessary information, I proceeded to create the main functionality, which allows us to calculate the total salary to be paid to the employee. This can be found in the `salary-calculator.js` file in the `scripts` folder.
+
+And finally the different tests to the methods created in the project were carried out. These tests were done with JEST and tried to cover every possible case that could be in the use of the project.
+
+## Testing (JEST)<a name="testing"></a>
+
+### Software Installed
+
+- Node.js
+- Node.js Extension Pack for Visual Studio Code.
+- Jest library.
+
+### Steps to Reproduce.
+
+1. Open the repository in Visual Studio Code.
+2. Get Node.js dependencies in the current project. Then type in console `npm install`. Jest is already added in the dependencies in `package.json`.
+3. Run `npm test` to execute tests.
