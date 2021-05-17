@@ -122,5 +122,5 @@ And finally the different tests to the methods created in the project were carri
 ### Steps to Reproduce.
 
 1. Open the repository in Visual Studio Code.
-2. Get Node.js dependencies in the current project. Then type in console `npm install`. Jest is already added in the dependencies in `package.json`.
+2. Get Node.js dependencies in the current project. Then type in the terminal integrated `npm install`. Jest is already added in the dependencies in `package.json`.
 3. Run `npm test` to execute tests.
