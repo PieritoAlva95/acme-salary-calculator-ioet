@@ -82,7 +82,7 @@ Or you can go to the [page](https://pieritoalva95.github.io/acme-salary-calculat
 The program is structured in five sections:
 
 - The section of constants and global variables that were used within the project.
-- The scripts section, where you will find the main class of the project and the class in which you have the methods to calculate the salary to be paid.
+- The scripts section, where you will find the main class `app.js` of the project and the class `salary-calculator.js` in which you have the methods to calculate the salary to be paid.
 - The styles section used on the main page of the project.
 - The utilities section contains the classes and methods that allow us to make the separation of strings and to obtain the different data necessary to perform the calculation of the salary.
 - And finally the testing section, where the different tests performed to the methods and functions of the project can be found.
