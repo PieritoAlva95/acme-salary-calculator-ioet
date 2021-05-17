@@ -5,6 +5,7 @@
 1. [Exercise](#exercise)
 2. [How to run locally?](#local)
 3. [Architecture](#architecture)
+4. [Approach & Methodology](#approach)
 
 ## Exercise<a name="exercise"></a>
 
@@ -86,3 +87,5 @@ The program is structured in five sections:
 - The styles section `style.css` used on the main page of the project.
 - The utilities section contains the classes `format-text.js`, `format-time.js` and methods that allow us to make the separation of strings and to obtain the different data necessary to perform the calculation of the salary.
 - And finally the testing section, where the different tests performed to the methods and functions of the project can be found.
+
+## Approach & Methodology <a name="approach"></a>
