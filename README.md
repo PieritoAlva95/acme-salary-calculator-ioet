@@ -99,3 +99,11 @@ The methodology used in the project is detailed below:
 I started with the set up of the environment, creating the basic project files, creating the repository, creating the README and configuring the GitHub actions.
 
 Then the basic requirements of the exercise were obtained, i.e., what was required for the project to be considered functional.
+
+I worked on the part of the HTML file and created its styles, in this case I tried to use a style similar to the terminal of a MAC machine.
+
+After having the desired user interface, After having the desired user interface, I proceeded to create the necessary functionality so that the project can read .txt files and I made use of a for() loop to be able to read line by line of the file.
+
+Then I proceeded to create the files and the functionality to be able to separate the data and information of each line that we find in the .txt file. This functionality can be found in the files of the `utils` folder.
+
+After having the data, the separation of chains and the necessary information, we proceeded to create the main functionality, which allows us to calculate the total salary to be paid to the employee. This can be found in the `salary-calculator.js` file in the `scripts` folder.
