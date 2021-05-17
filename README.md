@@ -7,6 +7,7 @@
 3. [Architecture](#architecture)
 4. [Approach & Methodology](#approach)
 5. [Testing (JEST)](#testing)
+6. [Developer's final comment ](#comment)
 
 ## Exercise<a name="exercise"></a>
 
@@ -95,6 +96,19 @@ The exercise is solved using OOP to create objects that execute functions of the
 
 I used Javascript because of the many methods that have to manage strings and arrays, specially the `split` and `toString()` that helps to change between array and string or viceversa depending on the case.`FileReader()` API reads the content of the text file. This API has the property `onload` that save the content of the file, so I used a variable to manipulate that text for later tasks. **_And because it's my favorite language and it's the one I'm using a lot right now._**
 
+The main code structure is:
+
+- Read file with `FileReader()`
+- Separate the content in each line.
+- For loop to obtain variables
+- Get employee and schedules
+- Use schedules variable to get start hours and minutes and final hours and minutes.
+- Get the hours and minutes from start hours and minutes and final hours and minutes.
+- Get the numbre of hours worked.
+- Get the salary range per day.
+- Get the total amount to pay to the employee.
+- Show results in the text area of the main page.
+
 The methodology used in the project is detailed below:
 
 I started with the set up of the environment, creating the basic project files, creating the repository, creating the README and configuring the GitHub actions.
@@ -124,3 +138,13 @@ And finally the different tests to the methods created in the project were carri
 1. Open the repository in Visual Studio Code.
 2. Get Node.js dependencies in the current project. Then type in the terminal integrated `npm install`. Jest is already added in the dependencies in `package.json`.
 3. Run `npm test` to execute tests.
+
+## Developer's final comment <a name="comment"></a>
+
+First of all I would like to say that I had a lot of fun solving this exercise, as it allowed me to learn or remember some cool things about the JavaScript programming language.
+
+Besides, for me all this was very important, because thanks to this exercise I realized how the company works and not only that, but also the things that the developers do, and the other people who collaborate in the creation and development of the company's projects. It only remains for me to say thank you very much for this incredible experience and I hope to meet all your expectations.
+
+Thank you,
+
+Jean Pierre Alvarado.
