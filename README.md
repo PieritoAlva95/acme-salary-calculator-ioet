@@ -96,4 +96,6 @@ I used Javascript because of the many methods that have to manage strings and ar
 
 The methodology used in the project is detailed below:
 
-I started with the set up of the environment, creating the repository docs, creating the README and configuring the GitHub actions.
+I started with the set up of the environment, creating the basic project files, creating the repository, creating the README and configuring the GitHub actions.
+
+Then the basic requirements of the exercise were obtained, i.e., what was required for the project to be considered functional.
